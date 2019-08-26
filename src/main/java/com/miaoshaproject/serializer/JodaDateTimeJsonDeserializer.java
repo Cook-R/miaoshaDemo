@@ -1,0 +1,25 @@
+package com.miaoshaproject.serializer;/*
+import	java.time.format.DateTimeFormatter;
+ @author -xxx
+ @DESCRIPTION 
+ @create 2019/8/20
+*/
+
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.DeserializationContext;
+import com.fasterxml.jackson.databind.JsonDeserializer;
+import org.joda.time.DateTime;
+import org.joda.time.format.DateTimeFormat;
+import org.joda.time.format.DateTimeFormatter;
+
+import java.io.IOException;
+
+public class JodaDateTimeJsonDeserializer extends JsonDeserializer<DateTime> {
+    @Override
+    public DateTime deserialize(JsonParser p, DeserializationContext ctxt) throws IOException, JsonProcessingException {
+        String dateString= p.readValueAs(String.class);
+        DateTimeFormatter formatter = DateTimeFormat.forPattern("yyyy-MM-dd HH:mm:ss");
+        return DateTime.parse(dateString, formatter);
+    }
+}
