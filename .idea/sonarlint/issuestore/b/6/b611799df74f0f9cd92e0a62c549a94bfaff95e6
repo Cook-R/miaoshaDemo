@@ -1,0 +1,2 @@
+
+ฤ%squid:RedundantThrowsDeclarationCheck"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException' which is a subclass of 'java.io.IOException'.(้ว“8ศสห-

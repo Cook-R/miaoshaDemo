@@ -1,0 +1,9 @@
+
+isquid:S1192\"FDefine a constant instead of duplicating this literal "item_" 5 times.(ì•³‡ÿÿÿÿÿ8´º¼Ì-
+gsquid:S2583`"DChange this condition so that it does not always evaluate to "false"(ÁŸÀîøÿÿÿÿ8´º¼Ì-
+}squid:S1488€"^Immediately return this expression instead of assigning it to the temporary variable "itemVO".(Şß­8´º¼Ì-
+fsquid:S4488p"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÜÊšˆ8´º¼Ì-
+nsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(Õüßşÿÿÿÿ8´º¼Ì-
+ksquid:S4488y"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(˜æÏüÿÿÿÿ8´º¼Ì-
+esquid:S4488X"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶¾û28´º¼Ì-
+msquid:S4488-"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ù˜ïçıÿÿÿÿ8´º¼Ì-

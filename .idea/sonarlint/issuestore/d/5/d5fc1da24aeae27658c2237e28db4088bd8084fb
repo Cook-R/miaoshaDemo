@@ -1,0 +1,20 @@
+
+Gsquid:S1148›"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½‡ãµÌ-
+Gsquid:S1148’"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½‡ãµÌ-
+nsquid:S1192B"KDefine a constant instead of duplicating this literal "stockLogId" 4 times.(äãùæşÿÿÿÿ8ã¾€½Ì-
+esquid:S2142š"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8½‡ãµÌ-
+Fsquid:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8„’ÔµÌ-
+Xsquid:S1854T":Remove this useless assignment to local variable "itemId".(¸Ö°Ä8á¨°½Ì-
+ksquid:S2259~"HA "NullPointerException" could be thrown; "sendResult" is nullable here.(‘ßà¢şÿÿÿÿ8†İ»Ì-
+esquid:S1192A"GDefine a constant instead of duplicating this literal "amount" 5 times.(´ºµµ8ÉóâµÌ-
+dsquid:S2147š"ECombine this catch with the one at line 145, which has the same body.(ä ¹€8½‡ãµÌ-
+ysquid:UselessImportCheck"IRemove this unused import 'org.hibernate.validator.constraints.SafeHtml'.(šùÃƒıÿÿÿÿ8âÂ×½Ì-
+Isquid:S1481T"+Remove this unused "itemId" local variable.(¸Ö°Ä8á¨°½Ì-
+jsquid:S1192>"GDefine a constant instead of duplicating this literal "itemId" 5 times.(„íïıÿÿÿÿ8ÉóâµÌ-
+csquid:S2147”"ECombine this catch with the one at line 145, which has the same body.(°İÔW8½‡ãµÌ-
+Hsquid:S1481U"+Remove this unused "amount" local variable.(»”m8é¯²½Ì-
+isquid:S2147—"ECombine this catch with the one at line 145, which has the same body.(Æ‘Îüÿÿÿÿ8½‡ãµÌ-
+Wsquid:S1854U":Remove this useless assignment to local variable "amount".(»”m8é¯²½Ì-
+Fsquid:S1148{"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½‡ãµÌ-
+Gsquid:S1148•"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½‡ãµÌ-
+Gsquid:S1148˜"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8½‡ãµÌ-

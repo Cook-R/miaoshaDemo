@@ -1,0 +1,12 @@
+
+jsquid:CommentedOutCodeLineê"<This block of commented-out lines of code should be removed.(†Åí∑8óòËèÃ-
+ssquid:S1192Å"ODefine a constant instead of duplicating this literal "user_validate_" 3 times.(¬†äç¯ˇˇˇˇ8¥∫ºèÃ-
+gsquid:S2259F"DA "NullPointerException" could be thrown; "itemDO" is nullable here.(ªÊÓ„˝ˇˇˇˇ8¥∫ºèÃ-
+rsquid:UselessImportCheck"GRemove this unused import 'com.miaoshaproject.service.model.UserModel'.(ÂΩ∞˜8¥∫ºèÃ-
+squid:S1488i"aImmediately return this expression instead of assigning it to the temporary variable "itemModel".(ÑŒ‘®8¥∫ºèÃ-
+Csquid:S2129√"$Remove this "BigDecimal" constructor(‚ﬂÁˆ8¥∫ºèÃ-
+hsquid:S2583Ç"DChange this condition so that it does not always evaluate to "false"(¡ü¿Ó¯ˇˇˇˇ8¥∫ºèÃ-
+{squid:UselessImportCheck"KRemove this unused import 'org.apache.rocketmq.client.producer.SendResult'.(¢†˚Ëˇˇˇˇˇ8¥∫ºèÃ-
+esquid:S2184ç"FCast one of the operands of this multiplication operation to a "long".(ºÖ¿—8¥∫ºèÃ-
+Ésquid:S1488g"eImmediately return this expression instead of assigning it to the temporary variable "itemModelList".(Œ¬∂¨8¥∫ºèÃ-
+Üsquid:S1488©"bImmediately return this expression instead of assigning it to the temporary variable "sendResult".(ÿŸÁ¨¯ˇˇˇˇ8¬®ÁèÃ-

@@ -1,0 +1,10 @@
+
+hsquid:S4488j"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(®ý‘°8­Ã›™Ë-
+hsquid:S44887"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ê°­§8­Ã›™Ë-
+msquid:S4488Z"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(óÈÝøúÿÿÿÿ8­Ã›™Ë-
+isquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(È¯Ù£8­Ã›™Ë-
+V
+squid:S106e"9Replace this use of System.out or System.err by a logger.(œŸ§ª8­Ã›™Ë-
+rsquid:S00100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ºƒ‡ûÿÿÿÿ8­Ã›™Ë-
+Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(ëÞï®8­Ã›™Ë-
+squid:S1488T"^Immediately return this expression instead of assigning it to the temporary variable "newstr".(ÛÁ“ºýÿÿÿÿ8­Ã›™Ë-

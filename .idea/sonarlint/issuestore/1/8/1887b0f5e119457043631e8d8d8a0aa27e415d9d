@@ -1,0 +1,17 @@
+
+bsquid:S2583P"DChange this condition so that it does not always evaluate to "false"(çíãö8´º¼Ì-
+hsquid:S2147x"ECombine this catch with the one at line 118, which has the same body.(åşŒóùÿÿÿÿ8Ş¼°ÇÌ-
+csquid:S2583ª"DChange this condition so that it does not always evaluate to "false"(çíãö8ÍÛÇÂÌ-
+lsquid:S1192”"MDefine a constant instead of duplicating this literal "verify_code_" 3 times.(™şÂÎ8±Ÿ“ÈÌ-
+dsquid:S1192K"FDefine a constant instead of duplicating this literal "token" 3 times.(ğŠåµ8ÖÓúÇÌ-
+nsquid:CommentedOutCodeLine\"<This block of commented-out lines of code should be removed.(˜ùŠ›ûÿÿÿÿ8´º¼Ì-
+nsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ôóƒàıÿÿÿÿ8Öµ¶ÂÌ-
+_squid:UselessImportCheck"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8‚Å€ÈÌ-
+nsquid:CommentedOutCodeLine`"<This block of commented-out lines of code should be removed.(âÿÀúÿÿÿÿ8´º¼Ì-
+gsquid:S2583U"DChange this condition so that it does not always evaluate to "false"(”®µÑÿÿÿÿÿ8œ½öÂÌ-
+csquid:S2583"DChange this condition so that it does not always evaluate to "false"(çíãö8ÒæüÇÌ-
+msquid:S4488B"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Èâ¥Êûÿÿÿÿ8´º¼Ì-
+…squid:S1192M"bDefine a constant instead of duplicating this literal "ç”¨æˆ·è¿˜æœªç™»å½•ï¼Œä¸èƒ½ä¸‹å•" 4 times.(ÕŞ¼„øÿÿÿÿ8ÀôÄÂÌ-
+dsquid:S2142v"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ş¼°ÇÌ-
+isquid:CommentedOutCodeLineH"<This block of commented-out lines of code should be removed.(Ùâ³›8´º¼Ì-
+asquid:UselessImportCheck"1Remove this unused import 'java.io.OutputStream'.(Ó ³ÿÿÿÿÿ8‚Å€ÈÌ-
